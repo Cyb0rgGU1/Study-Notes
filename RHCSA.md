@@ -1,4 +1,4 @@
-yh   # RHCSA 
+# RHCSA 
 ## _RedHat Certified Systems Administrator_
 
 ## Ecosystem 
