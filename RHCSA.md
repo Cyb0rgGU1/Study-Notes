@@ -1,31 +1,6 @@
 yh   # RHCSA 
 ## _RedHat Certified Systems Administrator_
 
-**Lab Enviornment**
-* All student computer systems have a standard user account, **student**, which has the password **55TurnK3y**. The root password on all student systems is _**redhat**_.
-
-|Machine name | IP address | Role |
-| ----- | ----- | ----- |
-| bastion.lab.example.com | 172.25.250.254 |Gateway system to connect the student private network to the classroom server (must always be running)
-| classroom.example.com | 172.25.254.254 | Server that hosts the required classroom materials |
-| workstation.lab.example.com | 172.25.250.9 | Graphical workstation for student use |
-|servera.lab.example.com |172.25.250.10 | Managed server "A" |
-|serverb.lab.example.com |172.25.250.11 |Managed server "B" |
-
-Log into `http://rol.redhat.com/` to access self-paced courses. 
-
-## Overview
-* **Control:** See what the code does and improve it.
-* **Training:** Learn from real-world code and develop more applications that are useful.
-* **Security:** Inspect sensitive code, and fix it even without the original developers' help.
-* **Stability:** Rely on code that can survive the loss of the original developer.
-
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
-
 ## Ecosystem 
 
 **Fedora:** Project that produces and releases free Linux-based OS; prioritizes innovation and excellence above long-term stability. Source of innovation for the entire Enterprise Linux ecosystem. 
